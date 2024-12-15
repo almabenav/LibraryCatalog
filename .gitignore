@@ -1,0 +1,38 @@
+# Ignore build output files
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+
+# Ignore Visual Studio Code settings and extensions
+.vscode/
+
+# Ignore package manager directories
+packages/
+.vs/
+
+# Ignore compiled libraries
+*.dll
+*.pdb
+*.exe
+*.app
+*.lib
+
+# Ignore NuGet files
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore auto-generated files
+*.Generated.cs
+*.g.cs
